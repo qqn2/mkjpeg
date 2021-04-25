@@ -1,0 +1,18 @@
+$date
+	Mon Mar 29 17:11:05 2021
+$end
+$version
+	QuestaSim Version 2019.2_1
+$end
+$timescale
+	1ps
+$end
+$scope module jpeg_tb $end
+$scope module U_JpegEnc $end
+$var wire 1 ! OPB_toutSup $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0!
